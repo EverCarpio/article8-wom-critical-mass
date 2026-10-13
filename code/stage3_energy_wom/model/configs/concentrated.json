@@ -1,0 +1,16 @@
+{
+  "communities": 6,
+  "distribution": "concentrated",
+  "energy_threshold": 0.05,
+  "initial_customers": 120,
+  "initial_detractors": 6,
+  "n": 600,
+  "negative_energy": 0.6,
+  "negative_weight": 1.0,
+  "negative_wom_enabled": true,
+  "p_between": 0.006,
+  "p_within": 0.08,
+  "positive_energy": 0.6,
+  "promoter_share": 0.15,
+  "seed": 20260925
+}

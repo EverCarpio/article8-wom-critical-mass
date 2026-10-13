@@ -1,0 +1,11 @@
+{
+  "fit_coefficient": 1.5,
+  "intercept": -2.0,
+  "memory_retention": 0.5,
+  "need_coefficient": 1.5,
+  "opportunities": 2,
+  "opportunity_factor": 0.8,
+  "periods": 60,
+  "positive_coefficient": 1.2,
+  "record_agents": true
+}

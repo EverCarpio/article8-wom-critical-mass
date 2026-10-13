@@ -1,0 +1,7 @@
+{
+  "note": "Frozen before outcomes; 100 new independent seeds, not pooled with previous pilots.",
+  "plan_sha256": "0ad8021f122d58024ca65fc3f625f61ac2f156eb4643f4606caf5f9c4c72093f",
+  "planned_runs": 1800,
+  "prepared_at_utc": "2026-09-27T15:24:07.734826+00:00",
+  "python_version": "3.12.14"
+}

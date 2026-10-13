@@ -1,0 +1,12 @@
+{
+  "completed_at_utc": "2026-09-27T16:15:48.745165+00:00",
+  "completed_runs": 1800,
+  "failed_runs": 0,
+  "failures": [],
+  "plan_sha256": "0ad8021f122d58024ca65fc3f625f61ac2f156eb4643f4606caf5f9c4c72093f",
+  "planned_runs": 1800,
+  "python_version": "3.12.14",
+  "version": "0.3.0-energy-wom",
+  "wall_seconds": 1904.6766066640012,
+  "workers": 8
+}

@@ -1,0 +1,9 @@
+{
+  "dissatisfied_threshold": 0.35,
+  "fit_effect": 0.2,
+  "new_promoter_energy": 0.6,
+  "noise_amplitude": 0.4,
+  "promoter_disposition_probability": 0.8,
+  "quality": 0.7,
+  "satisfied_threshold": 0.75
+}

@@ -1,0 +1,12 @@
+{
+  "observed_at_utc": "2026-09-27T15:44:03.914340+00:00",
+  "completed_records_preserved": 608,
+  "quarantined_partial_paths": [
+    "work/r034_P2_E9_W0",
+    "work/r034_P2_E6_W2",
+    "work/r034_P2_E6_W1",
+    "archives/r034_P2_E6_W2.tar.partial",
+    "archives/r034_P2_E6_W1.tar.partial"
+  ],
+  "reason": "Runtime reset; process sessions no longer exist. Same-seed resume without changing the frozen design."
+}
