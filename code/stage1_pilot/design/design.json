@@ -1,0 +1,367 @@
+{
+  "baseline_runs": 110,
+  "classification_settings": {
+    "base": {
+      "cohort_windows": [
+        3,
+        6,
+        12
+      ],
+      "collapse_capacity_fraction": 0.5,
+      "collapse_reference_periods": 3,
+      "collapse_remaining": 0.2,
+      "collapse_sales_fraction": 0.5,
+      "collapse_stock_fraction": 0.5,
+      "duration": 6,
+      "growth_factor": 1.25,
+      "minimum_purchase_communities": 2,
+      "minimum_sales": 3,
+      "plateau_tolerance": 0.2,
+      "reproduction_window": 6,
+      "require_positive_pressure": true,
+      "saturation_remaining": 0.1,
+      "spike_block": 3,
+      "spike_decline_fraction": 0.5,
+      "spike_growth_factor": 2.0
+    },
+    "duration4": {
+      "cohort_windows": [
+        3,
+        6,
+        12
+      ],
+      "collapse_capacity_fraction": 0.5,
+      "collapse_reference_periods": 3,
+      "collapse_remaining": 0.2,
+      "collapse_sales_fraction": 0.5,
+      "collapse_stock_fraction": 0.5,
+      "duration": 4,
+      "growth_factor": 1.25,
+      "minimum_purchase_communities": 2,
+      "minimum_sales": 3,
+      "plateau_tolerance": 0.2,
+      "reproduction_window": 6,
+      "require_positive_pressure": true,
+      "saturation_remaining": 0.1,
+      "spike_block": 3,
+      "spike_decline_fraction": 0.5,
+      "spike_growth_factor": 2.0
+    },
+    "duration8": {
+      "cohort_windows": [
+        3,
+        6,
+        12
+      ],
+      "collapse_capacity_fraction": 0.5,
+      "collapse_reference_periods": 3,
+      "collapse_remaining": 0.2,
+      "collapse_sales_fraction": 0.5,
+      "collapse_stock_fraction": 0.5,
+      "duration": 8,
+      "growth_factor": 1.25,
+      "minimum_purchase_communities": 2,
+      "minimum_sales": 3,
+      "plateau_tolerance": 0.2,
+      "reproduction_window": 6,
+      "require_positive_pressure": true,
+      "saturation_remaining": 0.1,
+      "spike_block": 3,
+      "spike_decline_fraction": 0.5,
+      "spike_growth_factor": 2.0
+    },
+    "growth1_10": {
+      "cohort_windows": [
+        3,
+        6,
+        12
+      ],
+      "collapse_capacity_fraction": 0.5,
+      "collapse_reference_periods": 3,
+      "collapse_remaining": 0.2,
+      "collapse_sales_fraction": 0.5,
+      "collapse_stock_fraction": 0.5,
+      "duration": 6,
+      "growth_factor": 1.1,
+      "minimum_purchase_communities": 2,
+      "minimum_sales": 3,
+      "plateau_tolerance": 0.2,
+      "reproduction_window": 6,
+      "require_positive_pressure": true,
+      "saturation_remaining": 0.1,
+      "spike_block": 3,
+      "spike_decline_fraction": 0.5,
+      "spike_growth_factor": 2.0
+    },
+    "growth1_50": {
+      "cohort_windows": [
+        3,
+        6,
+        12
+      ],
+      "collapse_capacity_fraction": 0.5,
+      "collapse_reference_periods": 3,
+      "collapse_remaining": 0.2,
+      "collapse_sales_fraction": 0.5,
+      "collapse_stock_fraction": 0.5,
+      "duration": 6,
+      "growth_factor": 1.5,
+      "minimum_purchase_communities": 2,
+      "minimum_sales": 3,
+      "plateau_tolerance": 0.2,
+      "reproduction_window": 6,
+      "require_positive_pressure": true,
+      "saturation_remaining": 0.1,
+      "spike_block": 3,
+      "spike_decline_fraction": 0.5,
+      "spike_growth_factor": 2.0
+    },
+    "limits05_15": {
+      "cohort_windows": [
+        3,
+        6,
+        12
+      ],
+      "collapse_capacity_fraction": 0.5,
+      "collapse_reference_periods": 3,
+      "collapse_remaining": 0.15,
+      "collapse_sales_fraction": 0.5,
+      "collapse_stock_fraction": 0.5,
+      "duration": 6,
+      "growth_factor": 1.25,
+      "minimum_purchase_communities": 2,
+      "minimum_sales": 3,
+      "plateau_tolerance": 0.2,
+      "reproduction_window": 6,
+      "require_positive_pressure": true,
+      "saturation_remaining": 0.05,
+      "spike_block": 3,
+      "spike_decline_fraction": 0.5,
+      "spike_growth_factor": 2.0
+    },
+    "limits15_30": {
+      "cohort_windows": [
+        3,
+        6,
+        12
+      ],
+      "collapse_capacity_fraction": 0.5,
+      "collapse_reference_periods": 3,
+      "collapse_remaining": 0.3,
+      "collapse_sales_fraction": 0.5,
+      "collapse_stock_fraction": 0.5,
+      "duration": 6,
+      "growth_factor": 1.25,
+      "minimum_purchase_communities": 2,
+      "minimum_sales": 3,
+      "plateau_tolerance": 0.2,
+      "reproduction_window": 6,
+      "require_positive_pressure": true,
+      "saturation_remaining": 0.15,
+      "spike_block": 3,
+      "spike_decline_fraction": 0.5,
+      "spike_growth_factor": 2.0
+    },
+    "without_pressure": {
+      "cohort_windows": [
+        3,
+        6,
+        12
+      ],
+      "collapse_capacity_fraction": 0.5,
+      "collapse_reference_periods": 3,
+      "collapse_remaining": 0.2,
+      "collapse_sales_fraction": 0.5,
+      "collapse_stock_fraction": 0.5,
+      "duration": 6,
+      "growth_factor": 1.25,
+      "minimum_purchase_communities": 2,
+      "minimum_sales": 3,
+      "plateau_tolerance": 0.2,
+      "reproduction_window": 6,
+      "require_positive_pressure": false,
+      "saturation_remaining": 0.1,
+      "spike_block": 3,
+      "spike_decline_fraction": 0.5,
+      "spike_growth_factor": 2.0
+    }
+  },
+  "contrast_runs": 40,
+  "dynamics": {
+    "fit_coefficient": 1.5,
+    "intercept": -2.0,
+    "memory_retention": 0.5,
+    "need_coefficient": 1.5,
+    "opportunities": 2,
+    "opportunity_factor": 0.8,
+    "periods": 60,
+    "positive_coefficient": 1.2,
+    "record_agents": true
+  },
+  "experience": {
+    "dissatisfied_threshold": 0.35,
+    "fit_effect": 0.2,
+    "new_promoter_energy": 0.6,
+    "noise_amplitude": 0.4,
+    "promoter_disposition_probability": 0.8,
+    "quality": 0.7,
+    "satisfied_threshold": 0.75
+  },
+  "full_agent_history": true,
+  "initial_base": {
+    "communities": 6,
+    "distribution": "distributed",
+    "energy_threshold": 0.05,
+    "initial_customers": 120,
+    "initial_detractors": 6,
+    "n": 600,
+    "negative_energy": 0.6,
+    "negative_weight": 1.0,
+    "negative_wom_enabled": true,
+    "p_between": 0.006,
+    "p_within": 0.08,
+    "positive_energy": 0.6,
+    "promoter_share": 0.15,
+    "seed": 20260925
+  },
+  "initial_share_denominator": "Initial customers C0=120",
+  "model_source_manifest_sha256": "500f2fc5c55c0f4533784f323a998a9f6e7acdd4612d5715a80065e62d9d2ab3",
+  "model_version": "0.6.0-m6",
+  "negative_dynamics": {
+    "decay": 0.06,
+    "disposition_probability": 0.8,
+    "influence_coefficient": 1.2,
+    "message_cost": 0.04,
+    "new_detractor_energy": 0.6
+  },
+  "new_detractor_energy_fixed": 0.6,
+  "new_promoter_energy_fixed": 0.6,
+  "periods": 60,
+  "pilot_version": "0.1.0-pilot",
+  "planned_runs": 150,
+  "positive_energy_dynamics": {
+    "decay": 0.06,
+    "message_cost": 0.04
+  },
+  "primary_outcome": "Historical observed takeoff, not terminal class",
+  "replicates": 10,
+  "scenarios": [
+    {
+      "distribution": "distributed",
+      "group": "baseline",
+      "positive_energy": 0.6,
+      "scenario": "B00",
+      "share": 0
+    },
+    {
+      "distribution": "distributed",
+      "group": "baseline",
+      "positive_energy": 0.6,
+      "scenario": "B01",
+      "share": 0.025
+    },
+    {
+      "distribution": "distributed",
+      "group": "baseline",
+      "positive_energy": 0.6,
+      "scenario": "B02",
+      "share": 0.05
+    },
+    {
+      "distribution": "distributed",
+      "group": "baseline",
+      "positive_energy": 0.6,
+      "scenario": "B03",
+      "share": 0.075
+    },
+    {
+      "distribution": "distributed",
+      "group": "baseline",
+      "positive_energy": 0.6,
+      "scenario": "B04",
+      "share": 0.1
+    },
+    {
+      "distribution": "distributed",
+      "group": "baseline",
+      "positive_energy": 0.6,
+      "scenario": "B05",
+      "share": 0.125
+    },
+    {
+      "distribution": "distributed",
+      "group": "baseline",
+      "positive_energy": 0.6,
+      "scenario": "B06",
+      "share": 0.15
+    },
+    {
+      "distribution": "distributed",
+      "group": "baseline",
+      "positive_energy": 0.6,
+      "scenario": "B07",
+      "share": 0.175
+    },
+    {
+      "distribution": "distributed",
+      "group": "baseline",
+      "positive_energy": 0.6,
+      "scenario": "B08",
+      "share": 0.2
+    },
+    {
+      "distribution": "distributed",
+      "group": "baseline",
+      "positive_energy": 0.6,
+      "scenario": "B09",
+      "share": 0.25
+    },
+    {
+      "distribution": "distributed",
+      "group": "baseline",
+      "positive_energy": 0.6,
+      "scenario": "B10",
+      "share": 0.3
+    },
+    {
+      "distribution": "distributed",
+      "group": "contrast",
+      "positive_energy": 0.3,
+      "scenario": "E3_distributed",
+      "share": 0.15
+    },
+    {
+      "distribution": "concentrated",
+      "group": "contrast",
+      "positive_energy": 0.3,
+      "scenario": "E3_concentrated",
+      "share": 0.15
+    },
+    {
+      "distribution": "distributed",
+      "group": "contrast",
+      "positive_energy": 0.9,
+      "scenario": "E9_distributed",
+      "share": 0.15
+    },
+    {
+      "distribution": "concentrated",
+      "group": "contrast",
+      "positive_energy": 0.9,
+      "scenario": "E9_concentrated",
+      "share": 0.15
+    }
+  ],
+  "seeds": [
+    810001,
+    810002,
+    810003,
+    810004,
+    810005,
+    810006,
+    810007,
+    810008,
+    810009,
+    810010
+  ]
+}
