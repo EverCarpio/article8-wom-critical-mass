@@ -1,0 +1,7 @@
+{
+  "note": "Frozen before new experimental outcomes. Criterion review informed by the previous 150-run pilot.",
+  "plan_sha256": "8379eeb9074402a056ce47181a67fc5474f66daf8806944be2aa505537d98790",
+  "planned_runs": 400,
+  "prepared_at_utc": "2026-09-27T13:41:37.334758+00:00",
+  "python_version": "3.12.14"
+}

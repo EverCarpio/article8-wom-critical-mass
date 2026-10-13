@@ -1,0 +1,14 @@
+{
+  "new_tests_passed": 14,
+  "unchanged_m6_source_files": 61,
+  "previous_m6_tests": 229,
+  "invariants_passed": 400,
+  "exports_verified": 400,
+  "regenerated_exports": 10,
+  "full_agent_period_rows": 29040000,
+  "cohort_windows_checked": 144000,
+  "paired_environments": 100,
+  "trace_blocks_verified": 10,
+  "simulation_runs": 400,
+  "classification_evaluations": 4800
+}

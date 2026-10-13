@@ -1,0 +1,81 @@
+{
+  "agent_history_rows_checked": 29040000,
+  "complete_and_ordered_histories": 400,
+  "exports_verified": 400,
+  "note": "Damaged export copies recovered only with identical seeds, frozen rules, and identical deterministic outputs; not additional independent replicates.",
+  "plan_sha256": "8379eeb9074402a056ce47181a67fc5474f66daf8806944be2aa505537d98790",
+  "recovery": [
+    {
+      "deterministic_files_matched": 29,
+      "outcomes_identical": true,
+      "reason": "Earlier verification retry; field name period corrected in history reader. Original deterministic content unchanged.",
+      "run_id": "r001_P0",
+      "same_seed": true
+    },
+    {
+      "deterministic_files_matched": 29,
+      "outcomes_identical": true,
+      "reason": "Missing or altered export: agent_period.csv",
+      "run_id": "r002_P3",
+      "same_seed": true
+    },
+    {
+      "deterministic_files_matched": 29,
+      "outcomes_identical": true,
+      "reason": "Missing or altered export: agent_period.csv",
+      "run_id": "r008_P3",
+      "same_seed": true
+    },
+    {
+      "deterministic_files_matched": 29,
+      "outcomes_identical": true,
+      "reason": "Missing or altered export: agent_period.csv",
+      "run_id": "r031_P0",
+      "same_seed": true
+    },
+    {
+      "deterministic_files_matched": 29,
+      "outcomes_identical": true,
+      "reason": "Missing or altered export: agent_period.csv",
+      "run_id": "r037_P2",
+      "same_seed": true
+    },
+    {
+      "deterministic_files_matched": 29,
+      "outcomes_identical": true,
+      "reason": "Missing or altered export: agent_period.csv",
+      "run_id": "r042_P0",
+      "same_seed": true
+    },
+    {
+      "deterministic_files_matched": 29,
+      "outcomes_identical": true,
+      "reason": "Missing or altered export: agent_period.csv",
+      "run_id": "r048_P3",
+      "same_seed": true
+    },
+    {
+      "deterministic_files_matched": 29,
+      "outcomes_identical": true,
+      "reason": "Missing or altered export: agent_period.csv",
+      "run_id": "r054_P0",
+      "same_seed": true
+    },
+    {
+      "deterministic_files_matched": 29,
+      "outcomes_identical": true,
+      "reason": "Missing or altered export: agent_period.csv",
+      "run_id": "r075_P3",
+      "same_seed": true
+    },
+    {
+      "deterministic_files_matched": 29,
+      "outcomes_identical": true,
+      "reason": "Missing or altered export: agent_period.csv",
+      "run_id": "r092_P3",
+      "same_seed": true
+    }
+  ],
+  "regenerated_runs": 10,
+  "verification_and_recovery_seconds": 122.46692169500056
+}

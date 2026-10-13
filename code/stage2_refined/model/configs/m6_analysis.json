@@ -1,0 +1,23 @@
+{
+  "reproduction_window": 6,
+  "cohort_windows": [
+    3,
+    6,
+    12
+  ],
+  "duration": 6,
+  "minimum_sales": 3,
+  "growth_factor": 1.25,
+  "require_positive_pressure": true,
+  "minimum_purchase_communities": 2,
+  "collapse_reference_periods": 3,
+  "collapse_sales_fraction": 0.5,
+  "collapse_stock_fraction": 0.5,
+  "collapse_capacity_fraction": 0.5,
+  "saturation_remaining": 0.1,
+  "collapse_remaining": 0.2,
+  "plateau_tolerance": 0.2,
+  "spike_block": 3,
+  "spike_growth_factor": 2.0,
+  "spike_decline_fraction": 0.5
+}

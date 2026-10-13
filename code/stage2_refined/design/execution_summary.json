@@ -1,0 +1,12 @@
+{
+  "completed_at_utc": "2026-09-27T14:01:30.750411+00:00",
+  "completed_runs": 400,
+  "failed_runs": 0,
+  "failures": [],
+  "plan_sha256": "8379eeb9074402a056ce47181a67fc5474f66daf8806944be2aa505537d98790",
+  "planned_runs": 400,
+  "python_version": "3.12.14",
+  "version": "0.2.0-refined",
+  "wall_seconds": 1172.7193664240003,
+  "workers": 4
+}

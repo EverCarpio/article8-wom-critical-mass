@@ -1,0 +1,7 @@
+{
+  "decay": 0.06,
+  "disposition_probability": 0.8,
+  "influence_coefficient": 1.2,
+  "message_cost": 0.04,
+  "new_detractor_energy": 0.6
+}

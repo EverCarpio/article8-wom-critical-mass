@@ -1,0 +1,19 @@
+test_acceleration_is_not_sufficient_for_revised_volume (test_refined.CriterionTests.test_acceleration_is_not_sufficient_for_revised_volume) ... ok
+test_each_substantive_requirement_can_block_label (test_refined.CriterionTests.test_each_substantive_requirement_can_block_label) ... ok
+test_observer_is_read_only_and_uses_no_future (test_refined.CriterionTests.test_observer_is_read_only_and_uses_no_future) ... ok
+test_reach_is_historical_and_missing_is_censored (test_refined.CriterionTests.test_reach_is_historical_and_missing_is_censored) ... ok
+test_spike_and_incomplete_window_do_not_qualify (test_refined.CriterionTests.test_spike_and_incomplete_window_do_not_qualify) ... ok
+test_steady_diffusion_can_qualify_without_acceleration (test_refined.CriterionTests.test_steady_diffusion_can_qualify_without_acceleration) ... ok
+test_threshold_boundary_and_sensitivity (test_refined.CriterionTests.test_threshold_boundary_and_sensitivity) ... ok
+test_complete_agent_trace (test_refined.ExportIntegrityTests.test_complete_agent_trace) ... ok
+test_truncation_and_duplicate_rows_rejected (test_refined.ExportIntegrityTests.test_truncation_and_duplicate_rows_rejected) ... ok
+test_adapter_preserves_existing_three_promoter_dynamics (test_refined.InputTests.test_adapter_preserves_existing_three_promoter_dynamics) ... ok
+test_design_and_resume_are_fixed (test_refined.InputTests.test_design_and_resume_are_fixed) ... ok
+test_exact_counts_nested_and_environment_matched (test_refined.InputTests.test_exact_counts_nested_and_environment_matched) ... ok
+test_invalid_counts_and_inconsistent_share_rejected (test_refined.InputTests.test_invalid_counts_and_inconsistent_share_rejected) ... ok
+test_serialization_reconstructs_exact_input (test_refined.InputTests.test_serialization_reconstructs_exact_input) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 1.594s
+
+OK
