@@ -2,13 +2,13 @@
 
 Replication package for the article *Promoter critical mass and initial energy in an agent-based model of positive and negative word of mouth* (manuscript under review).
 
-**Authors:** Ever Carpio-Meza (corresponding author, ORCID [0009-0008-3245-0416](https://orcid.org/0009-0008-3245-0416)), Joaquín Tahta and Alejandro Peláez-Arango.
+**Authors:** Ever Carpio-Meza (corresponding author, ORCID [0009-0008-3245-0416](https://orcid.org/0009-0008-3245-0416)), Joaquin A. Tahta and Alejandro Peláez-Arango.
 
 ## About the model
 
 A theoretical agent-based model, written in Python with the standard library only, in which 600 agents in six communities buy a product after receiving word-of-mouth messages. Promoters and detractors arise from customer experience, and communication depletes energy and eligible contacts. The model examines whether the minimum number of promoters needed to start sustained diffusion is a fixed share or depends on initial promoter energy and on the weight of negative word of mouth. It is not calibrated to an observed market.
 
-The complete model description, following the ODD protocol, is in `docs/Article_8_Supplementary_S1_ODD.docx` (Supplementary Material S1 of the article).
+The complete model description, following the ODD protocol, is in `docs/Supplementary_Material_S1_ODD.docx` (Supplementary Material S1 of the article).
 
 ## Contents
 
